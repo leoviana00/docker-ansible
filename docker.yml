@@ -7,7 +7,7 @@
 # Descrição: Instalando, configurando e fazendo deploy com docker.
 # Desafio do Curso de DevOps | Ithappens 
 #---------------------------------------------------------------
-#
+
 - hosts: srv_svc
   become: yes
   vars:
